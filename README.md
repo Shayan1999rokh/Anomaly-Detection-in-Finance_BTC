@@ -271,9 +271,6 @@ For a stronger research-oriented version of this project:
 
 These are **proposed future improvements**, not features implemented in the supplied notebook.
 
-## Data attribution and author
-
-**Data:** [Elliptic Bitcoin Dataset — Kaggle](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set). Please consult the dataset page for its usage terms and citation requirements. The dataset is distributed separately and is not included in this README.
 
 **Notebook author:** **Shayan Rokhva** (2026)
 
