@@ -1,4 +1,5 @@
 # Bitcoin Transaction Anomaly Detection with Graph Machine Learning
+![Graph-Based Anomaly Detection in Bitcoin Transactions](Cover.png)
 
 **A comparative study of feature-based anomaly detection, self-supervised graph embeddings, and graph convolutional networks on the Elliptic Bitcoin dataset.**
 
